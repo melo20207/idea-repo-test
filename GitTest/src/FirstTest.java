@@ -5,5 +5,7 @@ public class FirstTest {
         }
 
         System.out.println("hello idea git");
+
+        System.out.println("dif");
     }
 }
